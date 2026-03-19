@@ -3,7 +3,7 @@
 
 Cloud Companion is a sleek, modern Chrome Extension built for **MLH Global Hack Week: Cloud 2026**. It helps developers stay focused and motivated by providing daily coding quotes and quick access to essential hackathon resources.
 
-## 🚀 Feature
+## 🚀 Features
 - **Daily Motivation:** Random coding quotes to keep you inspired.
 - **Quick Links:** Direct access to MLH Discord, Challenge List, and Leaderboard.
 - **Modern UI:** Designed with MLH Blue (#4285f4) and rounded aesthetic.
